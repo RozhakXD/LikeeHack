@@ -3,7 +3,7 @@
 
 **LikeeHack** adalah alat hacking berbasis **Python** yang dikembangkan untuk melakukan **hacking akun** di platform [Likee](https://likee.video/) dengan metode berbasis email. **Alat ini hanya untuk tujuan edukasi** dan merupakan bagian dari project testing dalam versi **beta**.
 
-> 🚨 **Disclaimer**: Alat ini dibuat hanya untuk tujuan edukasi. Segala bentuk penyalahgunaan alat ini sangat dilarang. Kami tidak mendukung aktivitas peretasan atau tindakan ilegal apa pun. 🚨
+> 🚨 **Disclaimer**: Alat ini hanya untuk tujuan edukasi. Penyalahgunaan dilarang keras. Kami tidak mendukung aktivitas peretasan atau tindakan ilegal. 🚨
 
 ## Prasyarat
 - [Python 3.x](https://www.python.org/)
@@ -26,13 +26,17 @@
     ```bash
     cd LikeeHack
     ```
-2. Install dependencies:
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Jalankan program:
+4. Set izin eksekusi pada file `Run`:
     ```bash
-    python Run.py
+    chmod +x Run
+    ```   
+5. Jalankan program:
+    ```bash
+    ./Run
     ```
 
 ## Cara Menggunakan 🚀
