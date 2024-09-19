@@ -1,0 +1,4 @@
+fake-useragent
+httpx
+rich
+faker
