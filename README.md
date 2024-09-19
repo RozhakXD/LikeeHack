@@ -3,7 +3,7 @@
 
 **LikeeHack** adalah alat hacking berbasis **Python** yang dikembangkan untuk melakukan **hacking akun** di platform [Likee](https://likee.video/) dengan metode berbasis email. **Alat ini hanya untuk tujuan edukasi** dan merupakan bagian dari project testing dalam versi **beta**.
 
-> 🚨 **Disclaimer**: Project ini hanya untuk **TUJUAN EDUKASI**! Jangan gunakan untuk hal yang melanggar hukum. Pengembang tidak bertanggung jawab atas penyalahgunaan alat ini. 🚨
+> 🚨 **Disclaimer**: Alat ini dibuat hanya untuk tujuan edukasi. Segala bentuk penyalahgunaan alat ini sangat dilarang. Kami tidak mendukung aktivitas peretasan atau tindakan ilegal apa pun. 🚨
 
 ## Prasyarat
 - [Python 3.x](https://www.python.org/)
@@ -43,10 +43,10 @@
 2. Ikuti instruksi yang diberikan di setiap langkah untuk melanjutkan.
 
 ## Proses Hacking 🔓
+- **Penanganan Respons**: Jika login berhasil, alat akan menyimpan cookie, UID, dan informasi lainnya untuk referensi lebih lanjut.
 - **Pengumpulan Data**: Alat ini mengambil email dan mencoba beberapa kombinasi kata sandi (password brute force).
 - **Hashing Password**: Setiap kata sandi di-hash menggunakan algoritma MD5 untuk memastikan keamanan proses.
 - **Autentikasi API**: Alat mengirim permintaan POST ke API Likee dengan data yang sudah dikumpulkan dan memeriksa apakah autentikasi berhasil.
-- **Penanganan Respons**: Jika login berhasil, alat akan menyimpan cookie, UID, dan informasi lainnya untuk referensi lebih lanjut.
 
 ## Masalah Umum dan Solusi 💡
 1. **Tidak Mendapatkan Hasil**:
