@@ -1,4 +1,4 @@
-# ⚡ LIKEEHACK - EMAIL-BASED HACKING TOOL FOR LIKEE (BETA)
+# LIKEEHACK - ADVANCED LIKEE HACKING TOOL (BETA) 🔥
 ![LikeeHack](https://github.com/user-attachments/assets/f46b8267-a150-4770-918a-ad99694a7628)
 
 **LikeeHack** adalah alat hacking berbasis **Python** yang dikembangkan untuk melakukan **hacking akun** di platform [Likee](https://likee.video/) dengan metode berbasis email. **Alat ini hanya untuk tujuan edukasi** dan merupakan bagian dari project testing dalam versi **beta**.
