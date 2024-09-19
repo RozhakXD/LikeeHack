@@ -22,7 +22,7 @@
     ```bash
     https://github.com/RozhakXD/LikeeHack.git
     ```
-2. Masuk ke direktori LikeeHack
+2. Masuk ke direktori LikeeHack:
     ```bash
     cd LikeeHack
     ```
