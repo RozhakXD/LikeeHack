@@ -1,4 +1,4 @@
-# 🚀 LikeeHack - Hacking Tool for Likee Application (Beta)
+# ⚡ LIKEEHACK - EMAIL-BASED HACKING TOOL FOR LIKEE (BETA)
 ![LikeeHack](https://github.com/user-attachments/assets/f46b8267-a150-4770-918a-ad99694a7628)
 
 **LikeeHack** adalah alat hacking berbasis **Python** yang dikembangkan untuk melakukan **hacking akun** di platform [Likee](https://likee.video/) dengan metode berbasis email. **Alat ini hanya untuk tujuan edukasi** dan merupakan bagian dari project testing dalam versi **beta**.
@@ -11,11 +11,11 @@
 - [Termux](https://f-droid.org/repo/com.termux_1020.apk)
 
 ## Fitur ✨
-- 📂 Mengelola hasil hacking dalam folder temporary untuk peninjauan lebih lanjut.
 - 🔍 Kumpulkan Email dari Faker atau Random Generator.
-- 🕵️‍♂️ Hacking akun Likee berdasarkan email yang telah dikumpulkan.
+- 📂 Mengelola hasil hacking dalam folder temporary untuk peninjauan lebih lanjut.
 - 💻 Menampilkan hasil hacking dengan username, password, dan cookie.
 - 📅 Expiry Date: **01 July 2025**.
+- 🕵️‍♂️ Hacking akun Likee berdasarkan email yang telah dikumpulkan.
 
 ## Instalasi ⚙️
 1. Clone repository ini:
